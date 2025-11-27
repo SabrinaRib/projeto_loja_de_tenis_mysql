@@ -1,4 +1,4 @@
-##👟SISTEMA DE E-COMMERCE — LOJA DE TÊNIS
+#👟SISTEMA DE E-COMMERCE — LOJA DE TÊNIS
 
 >⚠️**STATUS:**Este projeto é um protótipo funcional para fins acadêmicos/portfólio.
 
@@ -8,7 +8,7 @@ A aplicação foi construída utilizando a stack PHP, MySQL e Bootstrap, focando
 
 -------------------------------------------------------------
 
-##⚙️TECNOLOGIAS E FERRAMENTAS
+#⚙️TECNOLOGIAS E FERRAMENTAS
 
 PHP: Linguagem de back-end para regras de negócio e controle de sessões.
 
@@ -22,7 +22,7 @@ XAMPP: Ambiente de desenvolvimento local.
 
 -------------------------------------------------------------
 
-##🚀FUNCIONALIDADES DO SISTEMA
+#🚀FUNCIONALIDADES DO SISTEMA
 
 O sistema é dividido em duas frentes: Vitrine (Pública) e Painel Administrativo.
 
@@ -38,7 +38,7 @@ O sistema é dividido em duas frentes: Vitrine (Pública) e Painel Administrativ
 
 -------------------------------------------------------------
 
-##🧠CONCEITOS TÉCNICOS APLICADOS
+#🧠CONCEITOS TÉCNICOS APLICADOS
 
 CRUD Completo: Manipulação total dos dados dos produtos e categorias.
 
@@ -52,7 +52,7 @@ Design Responsivo: Interface amigável para Desktop, Tablets e Celulares.
 
 -------------------------------------------------------------
 
-##💾GUIA DE INSTALAÇÃO E EXECUÇÃO
+#💾GUIA DE INSTALAÇÃO E EXECUÇÃO
 
 Preparação do Ambiente:
 Instale o XAMPP e inicie os módulos Apache e MySQL.
